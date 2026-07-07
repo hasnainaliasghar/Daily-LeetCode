@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
