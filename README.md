@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
