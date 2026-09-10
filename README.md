@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/hasnainaliasghar/Daily-LeetCode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
 | ------- |
